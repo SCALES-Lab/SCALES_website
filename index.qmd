@@ -22,3 +22,18 @@ The SCALES Lab brings together researchers, graduate students, and collaborators
 •	Apply Bayesian and mixed-effects methods to analyze large-scale education datasets  
 •	Develop methods for causal inference and theory-building without relying solely on experimental designs  
 •	Train students in computational tools and applied policy research  
+
+## Join the Lab
+
+The SCALES Lab is always looking for curious, motivated graduate students and collaborators interested in systems-level research in education. Whether you’re trained in education, data science, cognitive science, policy, or a related field, we welcome those who want to explore how educational outcomes emerge from complex systems — not just how to improve isolated metrics.
+
+We are especially interested in students who want to:  
+•	Use computational tools (e.g., R, Python, NetLogo) to model educational systems  
+•	Develop or test theory-driven models of achievement, development, or engagement   
+•	Work with large-scale datasets (e.g., ECLS-K, state longitudinal data systems)  
+•	Learn about causal inference, Bayesian methods, and agent-based simulation  
+•	Contribute to research that helps understand and improve access to educational resources  
+
+We are not organized around a specific ideological lens or framework. Instead, we prioritize intellectual rigor, methodological innovation, and a clear commitment to understanding how education works in real-world contexts.
+
+Interested in joining? Reach out via the [Contact] page or email Dr. Murrah directly with your CV and a short note about your research interests.
