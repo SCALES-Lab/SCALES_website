@@ -6,6 +6,7 @@
     "section": "",
     "text": "Dr. Murrah is a researcher and professor in the field of education, with a focus on modeling the complex systems that shape learning and academic outcomes. His work integrates tools from cognitive science, ecology, machine learning, and causal inference to better understand how structural factors and resource access interact over time.\nRather than advancing normative frameworks or ideological agendas, his research is grounded in the belief that scientific progress in education comes from building strong, testable theories that reflect the dynamic, real-world contexts in which learning occurs. He is particularly interested in using ecological and agent-based models to simulate educational environments and to explore how interventions or policy shifts might alter system-level behavior.\nDr. Murrah works closely with graduate students and collaborators on projects that span data science, policy modeling, and applied theory development, all with the goal of broadening access to resources and opportunities through empirically grounded insights.",
     "crumbs": [
+      "Home",
       "About the Director"
     ]
   },
@@ -16,6 +17,7 @@
     "section": "Study of Cognition and Learning in Educational Systems",
     "text": "Study of Cognition and Learning in Educational Systems\nThe SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.\nOur research focuses on understanding these systems through rigorous, theory-driven modeling — integrating insights from cognitive science, ecology, data science, and education policy. Rather than centering normative agendas, we aim to develop tools and evidence that clarify how learning environments function and how access to educational resources can be broadened across diverse contexts.",
     "crumbs": [
+      "Home",
       "Welcome to the SCALES Lab"
     ]
   },
@@ -26,6 +28,7 @@
     "section": "Who We Are",
     "text": "Who We Are\nThe SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.",
     "crumbs": [
+      "Home",
       "Welcome to the SCALES Lab"
     ]
   },
@@ -36,6 +39,18 @@
     "section": "What We Do",
     "text": "What We Do\n• Construct ecological models of learning, development, and achievement\n• Use agent-based modeling and AI tools to simulate and test educational systems\n• Apply Bayesian and mixed-effects methods to analyze large-scale education datasets\n• Develop methods for causal inference and theory-building without relying solely on experimental designs\n• Train students in computational tools and applied policy research",
     "crumbs": [
+      "Home",
+      "Welcome to the SCALES Lab"
+    ]
+  },
+  {
+    "objectID": "index.html#join-the-lab",
+    "href": "index.html#join-the-lab",
+    "title": "Welcome to the SCALES Lab",
+    "section": "Join the Lab",
+    "text": "Join the Lab\nThe SCALES Lab is always looking for curious, motivated graduate students and collaborators interested in systems-level research in education. Whether you’re trained in education, data science, cognitive science, policy, or a related field, we welcome those who want to explore how educational outcomes emerge from complex systems — not just how to improve isolated metrics.\nWe are especially interested in students who want to:\n• Use computational tools (e.g., R, Python, NetLogo) to model educational systems\n• Develop or test theory-driven models of achievement, development, or engagement\n• Work with large-scale datasets (e.g., ECLS-K, state longitudinal data systems)\n• Learn about causal inference, Bayesian methods, and agent-based simulation\n• Contribute to research that helps understand and improve access to educational resources\nWe are not organized around a specific ideological lens or framework. Instead, we prioritize intellectual rigor, methodological innovation, and a clear commitment to understanding how education works in real-world contexts.\nInterested in joining? Reach out via the [Contact] page or email Dr. Murrah directly with your CV and a short note about your research interests.",
+    "crumbs": [
+      "Home",
       "Welcome to the SCALES Lab"
     ]
   }
