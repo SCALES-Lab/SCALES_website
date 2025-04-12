@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SCALES Lab"
+  favicon: "favicon.png"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+    - index.qmd
+    - about.qmd
+  navbar:
+    logo: images/SCALES_Lab_LogoV2.png
+    right:
+      - icon: github
+        href: https://github.com/auqmer/statistical-thinking
+        
+  page-footer:
+    border: false
+    left: "William Murrah, 2023"
+    right:
+      - icon: github
+        href: https://github.com/wmmurrah
+format:
+  html:
+    theme: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+
+editor: source

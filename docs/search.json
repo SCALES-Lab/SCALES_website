@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Director",
+    "section": "",
+    "text": "Dr. Murrah is a researcher and professor in the field of education, with a focus on modeling the complex systems that shape learning and academic outcomes. His work integrates tools from cognitive science, ecology, machine learning, and causal inference to better understand how structural factors and resource access interact over time.\nRather than advancing normative frameworks or ideological agendas, his research is grounded in the belief that scientific progress in education comes from building strong, testable theories that reflect the dynamic, real-world contexts in which learning occurs. He is particularly interested in using ecological and agent-based models to simulate educational environments and to explore how interventions or policy shifts might alter system-level behavior.\nDr. Murrah works closely with graduate students and collaborators on projects that span data science, policy modeling, and applied theory development, all with the goal of broadening access to resources and opportunities through empirically grounded insights.",
+    "crumbs": [
+      "About the Director"
+    ]
+  },
+  {
+    "objectID": "index.html#study-of-cognition-and-learning-in-educational-systems",
+    "href": "index.html#study-of-cognition-and-learning-in-educational-systems",
+    "title": "Welcome to the SCALES Lab",
+    "section": "Study of Cognition and Learning in Educational Systems",
+    "text": "Study of Cognition and Learning in Educational Systems\nThe SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.\nOur research focuses on understanding these systems through rigorous, theory-driven modeling — integrating insights from cognitive science, ecology, data science, and education policy. Rather than centering normative agendas, we aim to develop tools and evidence that clarify how learning environments function and how access to educational resources can be broadened across diverse contexts.",
+    "crumbs": [
+      "Welcome to the SCALES Lab"
+    ]
+  },
+  {
+    "objectID": "index.html#who-we-are",
+    "href": "index.html#who-we-are",
+    "title": "Welcome to the SCALES Lab",
+    "section": "Who We Are",
+    "text": "Who We Are\nThe SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.",
+    "crumbs": [
+      "Welcome to the SCALES Lab"
+    ]
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Welcome to the SCALES Lab",
+    "section": "What We Do",
+    "text": "What We Do\n• Construct ecological models of learning, development, and achievement\n• Use agent-based modeling and AI tools to simulate and test educational systems\n• Apply Bayesian and mixed-effects methods to analyze large-scale education datasets\n• Develop methods for causal inference and theory-building without relying solely on experimental designs\n• Train students in computational tools and applied policy research",
+    "crumbs": [
+      "Welcome to the SCALES Lab"
+    ]
+  }
+]

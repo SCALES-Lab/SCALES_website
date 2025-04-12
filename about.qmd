@@ -1,0 +1,11 @@
+---
+title: "About the Director"
+---
+
+![](images/HankMurrah.png){width="50%"}  
+
+Dr. Murrah is a researcher and professor in the field of education, with a focus on modeling the complex systems that shape learning and academic outcomes. His work integrates tools from cognitive science, ecology, machine learning, and causal inference to better understand how structural factors and resource access interact over time.
+
+Rather than advancing normative frameworks or ideological agendas, his research is grounded in the belief that scientific progress in education comes from building strong, testable theories that reflect the dynamic, real-world contexts in which learning occurs. He is particularly interested in using ecological and agent-based models to simulate educational environments and to explore how interventions or policy shifts might alter system-level behavior.
+
+Dr. Murrah works closely with graduate students and collaborators on projects that span data science, policy modeling, and applied theory development, all with the goal of broadening access to resources and opportunities through empirically grounded insights.

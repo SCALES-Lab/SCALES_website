@@ -1,0 +1,24 @@
+---
+title: "Welcome to the SCALES Lab"
+---
+
+
+![](images/SCALES_Lab_LogoV2.png){width="70%"}
+
+## Study of Cognition and Learning in Educational Systems
+
+The SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.
+
+Our research focuses on understanding these systems through rigorous, theory-driven modeling — integrating insights from cognitive science, ecology, data science, and education policy. Rather than centering normative agendas, we aim to develop tools and evidence that clarify how learning environments function and how access to educational resources can be broadened across diverse contexts.
+
+## Who We Are
+
+The SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.
+
+## What We Do
+
+•	Construct ecological models of learning, development, and achievement  
+•	Use agent-based modeling and AI tools to simulate and test educational systems  
+•	Apply Bayesian and mixed-effects methods to analyze large-scale education datasets  
+•	Develop methods for causal inference and theory-building without relying solely on experimental designs  
+•	Train students in computational tools and applied policy research  
