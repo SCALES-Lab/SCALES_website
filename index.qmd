@@ -3,7 +3,7 @@ title: "Welcome to the SCALES Lab"
 ---
 
 
-![](images/SCALES_Lab_LogoV2.png){width="70%"}
+![](images/SCALES_Lab_LogoV2.png){fig-align="center"}
 
 ## Study of Cognition and Learning in Educational Systems
 

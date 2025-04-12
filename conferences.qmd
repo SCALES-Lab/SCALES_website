@@ -1,0 +1,19 @@
+---
+title: "Academic Organizations"
+format: html
+---
+
+| Organization | Research Alignment | Conference Timing | Submission Deadline | Location | Annual Dues | Primary Journal | Impact Factor |
+|--------------|--------------------|-------------------|---------------------|----------|-------------|-----------------|---------------|
+| [Cognitive Science Society (CogSci)](https://cognitivesciencesociety.org) | Cognitive science, computational modeling, theory development | July 30 – Aug 2, 2025 | Feb 3, 2025 | San Francisco, CA | Regular: $105; Student: $55 | [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709) | 2.3 |
+| [International Society of the Learning Sciences (ISLS)](https://www.isls.org) | Learning sciences, educational technology, collaborative learning | June 10–13, 2025 | Nov 27, 2024 | Helsinki, Finland | Regular: $100; Student: $50 | [Journal of the Learning Sciences](https://www.tandfonline.com/journals/hlns20) | 4.0 |
+| [International Society for Systems Sciences (ISSS)](https://www.isss.org) | Systems thinking, ecological modeling, interdisciplinary research | July 2025 | Mar–Apr 2025 | Varies annually | Regular: $150; Student: $50 | [Systems Research and Behavioral Science](https://onlinelibrary.wiley.com/journal/10991743) | 1.6 |
+| [International Congress on Agent-Based Modeling (ICABM)](https://www.icabm.org) | Agent-based modeling, simulation, complex systems | Varies | Varies | Varies | Regular: $100; Student: $50 | [Journal of Artificial Societies and Social Simulation](https://jasss.soc.surrey.ac.uk) | 2.0 |
+| [American Educational Research Association (AERA)](https://www.aera.net) | Education research, policy, methodology | Apr 23–27, 2025 | Jul–Aug 2024 | Denver, CO | Regular: $250; Student: $75 | [Educational Researcher](https://journals.sagepub.com/home/edr) | 5.0 |
+| [Association for Education Finance and Policy (AEFP)](https://aefpweb.org) | Education finance, policy analysis, quantitative methods | March 2025 | Oct–Nov 2024 | Varies annually | Regular: $150; Student: $50 | [Education Finance and Policy](https://direct.mit.edu/edfp) | 2.1 |
+| [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org) | Artificial intelligence, machine learning, AI in education | Feb 25 – Mar 4, 2025 | Aug 2024 | Philadelphia, PA | Regular: $125; Student: $50 | [AI Magazine](https://www.aaai.org/Magazine/magazine.php) | 1.7 |
+| [International Educational Data Mining Society (IEDMS)](https://educationaldatamining.org) | Educational data mining, learning analytics, AI applications | July 2025 | Jan–Feb 2025 | Varies annually | Regular: $100; Student: $50 | [Journal of Educational Data Mining](https://jedm.educationaldatamining.org) | 1.5 |
+| [Society for the Advancement of Socio-Economics (SASE)](https://sase.org) | Socio-economic systems, interdisciplinary policy research | June 2025 | Jan–Feb 2025 | Varies annually | Regular: $150; Student: $50 | [Socio-Economic Review](https://academic.oup.com/ser) | 3.2 |
+| [Society for Research on Educational Effectiveness (SREE)](https://www.sree.org) | Educational effectiveness, causal inference, policy evaluation | March 2025 | Sept–Oct 2024 | Varies annually | Regular: $200; Student: $75 | [Journal of Research on Educational Effectiveness](https://www.tandfonline.com/journals/uree20) | 2.9 |
+| [International Mind, Brain, and Education Society (IMBES)](https://imbes.org) | Cognitive neuroscience, education, interdisciplinary research | 2026 (Biennial) | TBD | Varies | Regular: $100; Student: $50 | [Mind, Brain, and Education](https://onlinelibrary.wiley.com/journal/1751228x) | 2.5 |
+: Organizations relevant to SCALES

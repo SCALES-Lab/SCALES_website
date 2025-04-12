@@ -11,6 +11,7 @@ website:
     contents:
     - index.qmd
     - about.qmd
+    - conferences.qmd
   navbar:
     logo: images/SCALES_Lab_LogoV2.png
     left:
