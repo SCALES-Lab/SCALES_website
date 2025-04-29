@@ -1,0 +1,22 @@
+---
+title: "SCALES Projects"
+format: html
+---
+
+This page contains current and ongoing projects in the SCALES Lab. These provide opportunities for potential collaborators to see what we are doing.
+
+## Generative Causal Inference
+
+### Generative Causal Inference: Unifying Generative Social Science and Strong Inference
+
+Generative Causal Inference (GCI) is a cutting-edge research framework developed in the SCALES Lab that unites agent-based modeling with formal causal inference to better understand the complex mechanisms behind educational and health outcomes. By simulating how individual behaviors and social interactions give rise to large-scale patterns—like achievement gaps, student dropout, or teacher turnover—GCI allows us to explore not only what causes these outcomes, but how and why. Drawing on the rigor of causal graphs and structural models alongside the explanatory power of computational simulations, GCI provides a powerful tool for testing theories, evaluating policies, and generating new insights that would be difficult to uncover through traditional methods alone. Graduate students working on GCI projects will gain hands-on experience with simulation, statistical modeling, and causal reasoning—preparing them to tackle some of the most pressing and complex problems in education and social science research.
+
+### Generative Causal Inference as a Tool for Explainable AI and Scientific Advancement
+
+This project explores Generative Causal Inference (GCI), an innovative framework combining computational simulations and causal reasoning to create transparent, trustworthy, and scientifically rigorous AI systems. Rather than relying solely on opaque machine learning algorithms, GCI leverages agent-based modeling and reinforcement learning to simulate and uncover the causal processes behind complex social phenomena, such as educational achievement gaps and health outcomes. By integrating causal inference methods (such as DAGs and structural causal models) with pattern-oriented modeling and strong inference, GCI not only provides robust explanations for AI predictions but also enhances scientific theory-building and hypothesis generation. Graduate students in the SCALES Lab will have the unique opportunity to develop skills in cutting-edge computational modeling, causal analysis, and interdisciplinary research, positioning themselves to significantly influence both the development of explainable AI systems and theoretical advancements in education and health sciences.
+
+
+### Ecological Modeling for Education Research: A New Framework for Systems Thinking and Causal Inference
+
+**Ecological Modeling in Education Research** reframes how we study and improve education systems by treating them as complex, adaptive systems influenced by dynamic interactions across students, teachers, families, institutions, and policies. This project blends systems thinking, cognitive science, and artificial intelligence—including agent-based modeling, reinforcement learning- with, and causal inference via Generative Causal Inference to develop rich, theory-driven simulations of real-world educational challenges. Students working on this project will help build computational models that simulate educational processes such as achievement gaps, policy interventions, and learning dynamics over time. This work aims not only to explain how educational outcomes emerge, but also to design and test interventions in silico, offering a new pathway for rigorous, actionable research. Graduate students with interests in computational modeling, educational disparities, cognitive science, or data-driven policy design are especially encouraged to join.
+

@@ -16,7 +16,9 @@ website:
     logo: images/SCALES_Lab_LogoV2.png
     left:
       - href: index.qmd
-        text: Home    
+        text: Home  
+      - href: projects.qmd
+        text: Projects  
     right:
       - icon: github
         href: https://github.com/auqmer/statistical-thinking

@@ -1,0 +1,43 @@
+---
+title: "Potential Projects"
+format: html
+---
+
+## Potential SCALES Projects
+
+### Generative Casual Inference: Potential Empirical Examples
+
+1. Research Question: How do different social media recommendation algorithms affect the spread of misinformation and polarization within online communities?
+
+    Context: This is a highly relevant and complex issue with societal implications.
+    Competing Hypotheses:
+        H1: Algorithms prioritizing engagement (clicks, shares) exacerbate misinformation spread.
+        H2: Algorithms prioritizing homophily (connecting similar users) increase polarization.
+        H3: Algorithmic transparency has a mitigating effect on both.
+    Theoretical Foundation:
+        Social network theory for modeling information diffusion.
+        Communication theory for modeling persuasion and belief formation.
+        Psychology of online behavior for modeling user engagement.
+    Spatial Aspect: Network structure and user interactions create a virtual "space" where information spreads.
+    Multiple Patterns and Datasets:
+        Misinformation spread patterns from social media data.
+        Polarization measures (attitude divergence) from surveys or user behavior data.
+        Network structure data (who follows whom) from platform APIs.
+
+2. Research Question: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?
+
+    Context: School choice is a complex and highly debated policy issue with significant equity implications.
+    Competing Hypotheses:
+        H1: Choice increases sorting by income and race, exacerbating inequity.
+        H2: Choice leads to school specialization and improved outcomes for all.
+        H3: The effects of choice depend heavily on the regulatory context and information available to parents.
+    Theoretical Foundation:
+        Economic theories of choice and competition.
+        Sociological theories of segregation and inequality.
+        Educational theories of school effectiveness and peer effects.
+    Spatial Aspect: School locations and student residential patterns create a spatial dimension to choice.
+    Multiple Patterns and Datasets:
+        Student enrollment data by school and demographics.
+        School performance data and resource allocation.
+        Residential segregation data.
+        Data on student transportation patterns.

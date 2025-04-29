@@ -5,7 +5,7 @@ title: "Welcome to the SCALES Lab"
 
 ![](images/SCALES_Lab_LogoV2clear.png){fig-align="center"}
 
-## Study of Cognition and Learning in Educational Systems
+##  <span style="color:#dd550c;">S</span>tudy of <span style="color:#dd550c;">C</span>ognition <span style="color:#dd550c;">A</span>nd <span style="color:#dd550c;">L</span>earning in <span style="color:#dd550c;">E</span>ducational <span style="color:#dd550c;">S</span>ystems
 
 The SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.
 
@@ -14,6 +14,10 @@ Our research focuses on understanding these systems through rigorous, theory-dri
 ## Who We Are
 
 The SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.
+
+The SCALES Lab is affiliated with the Plains Research Consortium (PRC) at Auburn University. To learn more the PRC website:
+
+[PRC website](https://education.auburn.edu/eflt/research/plains-research-consortium.php?utm_source=web&utm_medium=auwire_story&utm_content=cta&page=260819-plains-research-consortium)
 
 ## What We Do
 

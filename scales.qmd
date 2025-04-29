@@ -1,0 +1,6 @@
+---
+title: "SCALES Hidden Pages"
+format: html
+---
+
+[Potential Projects](https://scales-lab.github.io/SCALES_website/potential_projects)

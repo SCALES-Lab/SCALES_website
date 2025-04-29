@@ -1,32 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the Director",
+    "objectID": "potential_projects.html",
+    "href": "potential_projects.html",
+    "title": "Potential Projects",
     "section": "",
-    "text": "Dr. Murrah is a researcher and professor in the field of education, with a focus on modeling the complex systems that shape learning and academic outcomes. His work integrates tools from cognitive science, ecology, machine learning, and causal inference to better understand how structural factors and resource access interact over time.\nRather than advancing normative frameworks or ideological agendas, his research is grounded in the belief that scientific progress in education comes from building strong, testable theories that reflect the dynamic, real-world contexts in which learning occurs. He is particularly interested in using ecological and agent-based models to simulate educational environments and to explore how interventions or policy shifts might alter system-level behavior.\nDr. Murrah works closely with graduate students and collaborators on projects that span data science, policy modeling, and applied theory development, all with the goal of broadening access to resources and opportunities through empirically grounded insights.",
-    "crumbs": [
-      "Home",
-      "About the Director"
-    ]
+    "text": "Research Question: How do different social media recommendation algorithms affect the spread of misinformation and polarization within online communities?\nContext: This is a highly relevant and complex issue with societal implications. Competing Hypotheses: H1: Algorithms prioritizing engagement (clicks, shares) exacerbate misinformation spread. H2: Algorithms prioritizing homophily (connecting similar users) increase polarization. H3: Algorithmic transparency has a mitigating effect on both. Theoretical Foundation: Social network theory for modeling information diffusion. Communication theory for modeling persuasion and belief formation. Psychology of online behavior for modeling user engagement. Spatial Aspect: Network structure and user interactions create a virtual “space” where information spreads. Multiple Patterns and Datasets: Misinformation spread patterns from social media data. Polarization measures (attitude divergence) from surveys or user behavior data. Network structure data (who follows whom) from platform APIs.\nResearch Question: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?\nContext: School choice is a complex and highly debated policy issue with significant equity implications. Competing Hypotheses: H1: Choice increases sorting by income and race, exacerbating inequity. H2: Choice leads to school specialization and improved outcomes for all. H3: The effects of choice depend heavily on the regulatory context and information available to parents. Theoretical Foundation: Economic theories of choice and competition. Sociological theories of segregation and inequality. Educational theories of school effectiveness and peer effects. Spatial Aspect: School locations and student residential patterns create a spatial dimension to choice. Multiple Patterns and Datasets: Student enrollment data by school and demographics. School performance data and resource allocation. Residential segregation data. Data on student transportation patterns."
   },
   {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Academic Organizations",
+    "objectID": "potential_projects.html#potential-scales-projects",
+    "href": "potential_projects.html#potential-scales-projects",
+    "title": "Potential Projects",
     "section": "",
-    "text": "Organizations relevant to SCALES\n\n\nOrganization\nResearch Alignment\nConference Timing\nSubmission Deadline\nLocation\nAnnual Dues\nPrimary Journal\nImpact Factor\n\n\n\n\nCognitive Science Society (CogSci)\nCognitive science, computational modeling, theory development\nJuly 30 – Aug 2, 2025\nFeb 3, 2025\nSan Francisco, CA\nRegular: $105; Student: $55\nCognitive Science\n2.3\n\n\nInternational Society of the Learning Sciences (ISLS)\nLearning sciences, educational technology, collaborative learning\nJune 10–13, 2025\nNov 27, 2024\nHelsinki, Finland\nRegular: $100; Student: $50\nJournal of the Learning Sciences\n4.0\n\n\nInternational Society for Systems Sciences (ISSS)\nSystems thinking, ecological modeling, interdisciplinary research\nJuly 2025\nMar–Apr 2025\nVaries annually\nRegular: $150; Student: $50\nSystems Research and Behavioral Science\n1.6\n\n\nInternational Congress on Agent-Based Modeling (ICABM)\nAgent-based modeling, simulation, complex systems\nVaries\nVaries\nVaries\nRegular: $100; Student: $50\nJournal of Artificial Societies and Social Simulation\n2.0\n\n\nAmerican Educational Research Association (AERA)\nEducation research, policy, methodology\nApr 23–27, 2025\nJul–Aug 2024\nDenver, CO\nRegular: $250; Student: $75\nEducational Researcher\n5.0\n\n\nAssociation for Education Finance and Policy (AEFP)\nEducation finance, policy analysis, quantitative methods\nMarch 2025\nOct–Nov 2024\nVaries annually\nRegular: $150; Student: $50\nEducation Finance and Policy\n2.1\n\n\nAssociation for the Advancement of Artificial Intelligence (AAAI)\nArtificial intelligence, machine learning, AI in education\nFeb 25 – Mar 4, 2025\nAug 2024\nPhiladelphia, PA\nRegular: $125; Student: $50\nAI Magazine\n1.7\n\n\nInternational Educational Data Mining Society (IEDMS)\nEducational data mining, learning analytics, AI applications\nJuly 2025\nJan–Feb 2025\nVaries annually\nRegular: $100; Student: $50\nJournal of Educational Data Mining\n1.5\n\n\nSociety for the Advancement of Socio-Economics (SASE)\nSocio-economic systems, interdisciplinary policy research\nJune 2025\nJan–Feb 2025\nVaries annually\nRegular: $150; Student: $50\nSocio-Economic Review\n3.2\n\n\nSociety for Research on Educational Effectiveness (SREE)\nEducational effectiveness, causal inference, policy evaluation\nMarch 2025\nSept–Oct 2024\nVaries annually\nRegular: $200; Student: $75\nJournal of Research on Educational Effectiveness\n2.9\n\n\nInternational Mind, Brain, and Education Society (IMBES)\nCognitive neuroscience, education, interdisciplinary research\n2026 (Biennial)\nTBD\nVaries\nRegular: $100; Student: $50\nMind, Brain, and Education\n2.5",
-    "crumbs": [
-      "Home",
-      "Academic Organizations"
-    ]
+    "text": "Research Question: How do different social media recommendation algorithms affect the spread of misinformation and polarization within online communities?\nContext: This is a highly relevant and complex issue with societal implications. Competing Hypotheses: H1: Algorithms prioritizing engagement (clicks, shares) exacerbate misinformation spread. H2: Algorithms prioritizing homophily (connecting similar users) increase polarization. H3: Algorithmic transparency has a mitigating effect on both. Theoretical Foundation: Social network theory for modeling information diffusion. Communication theory for modeling persuasion and belief formation. Psychology of online behavior for modeling user engagement. Spatial Aspect: Network structure and user interactions create a virtual “space” where information spreads. Multiple Patterns and Datasets: Misinformation spread patterns from social media data. Polarization measures (attitude divergence) from surveys or user behavior data. Network structure data (who follows whom) from platform APIs.\nResearch Question: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?\nContext: School choice is a complex and highly debated policy issue with significant equity implications. Competing Hypotheses: H1: Choice increases sorting by income and race, exacerbating inequity. H2: Choice leads to school specialization and improved outcomes for all. H3: The effects of choice depend heavily on the regulatory context and information available to parents. Theoretical Foundation: Economic theories of choice and competition. Sociological theories of segregation and inequality. Educational theories of school effectiveness and peer effects. Spatial Aspect: School locations and student residential patterns create a spatial dimension to choice. Multiple Patterns and Datasets: Student enrollment data by school and demographics. School performance data and resource allocation. Residential segregation data. Data on student transportation patterns."
   },
   {
     "objectID": "index.html#study-of-cognition-and-learning-in-educational-systems",
     "href": "index.html#study-of-cognition-and-learning-in-educational-systems",
     "title": "Welcome to the SCALES Lab",
-    "section": "Study of Cognition and Learning in Educational Systems",
-    "text": "Study of Cognition and Learning in Educational Systems\nThe SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.\nOur research focuses on understanding these systems through rigorous, theory-driven modeling — integrating insights from cognitive science, ecology, data science, and education policy. Rather than centering normative agendas, we aim to develop tools and evidence that clarify how learning environments function and how access to educational resources can be broadened across diverse contexts.",
+    "section": "Study of Cognition And Learning in Educational Systems",
+    "text": "Study of Cognition And Learning in Educational Systems\nThe SCALES Lab investigates how educational outcomes emerge from the complex interplay of cognitive, social, institutional, and environmental forces. We approach education not as a collection of isolated interventions or outcomes, but as a dynamic system shaped by feedback loops, structural conditions, and resource distribution.\nOur research focuses on understanding these systems through rigorous, theory-driven modeling — integrating insights from cognitive science, ecology, data science, and education policy. Rather than centering normative agendas, we aim to develop tools and evidence that clarify how learning environments function and how access to educational resources can be broadened across diverse contexts.",
     "crumbs": [
       "Home",
       "Welcome to the SCALES Lab"
@@ -37,7 +29,7 @@
     "href": "index.html#who-we-are",
     "title": "Welcome to the SCALES Lab",
     "section": "Who We Are",
-    "text": "Who We Are\nThe SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.",
+    "text": "Who We Are\nThe SCALES Lab brings together researchers, graduate students, and collaborators who are interested in causal modeling, simulation, and data-driven inquiry. We welcome interdisciplinary thinkers committed to building better theories and uncovering the mechanisms behind patterns in educational development and achievement.\nThe SCALES Lab is affiliated with the Plains Research Consortium (PRC) at Auburn University. To learn more the PRC website:\nPRC website",
     "crumbs": [
       "Home",
       "Welcome to the SCALES Lab"
@@ -63,6 +55,49 @@
     "crumbs": [
       "Home",
       "Welcome to the SCALES Lab"
+    ]
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Academic Organizations",
+    "section": "",
+    "text": "Organizations relevant to SCALES\n\n\nOrganization\nResearch Alignment\nConference Timing\nSubmission Deadline\nLocation\nAnnual Dues\nPrimary Journal\nImpact Factor\n\n\n\n\nCognitive Science Society (CogSci)\nCognitive science, computational modeling, theory development\nJuly 30 – Aug 2, 2025\nFeb 3, 2025\nSan Francisco, CA\nRegular: $105; Student: $55\nCognitive Science\n2.3\n\n\nInternational Society of the Learning Sciences (ISLS)\nLearning sciences, educational technology, collaborative learning\nJune 10–13, 2025\nNov 27, 2024\nHelsinki, Finland\nRegular: $100; Student: $50\nJournal of the Learning Sciences\n4.0\n\n\nInternational Society for Systems Sciences (ISSS)\nSystems thinking, ecological modeling, interdisciplinary research\nJuly 2025\nMar–Apr 2025\nVaries annually\nRegular: $150; Student: $50\nSystems Research and Behavioral Science\n1.6\n\n\nInternational Congress on Agent-Based Modeling (ICABM)\nAgent-based modeling, simulation, complex systems\nVaries\nVaries\nVaries\nRegular: $100; Student: $50\nJournal of Artificial Societies and Social Simulation\n2.0\n\n\nAmerican Educational Research Association (AERA)\nEducation research, policy, methodology\nApr 23–27, 2025\nJul–Aug 2024\nDenver, CO\nRegular: $250; Student: $75\nEducational Researcher\n5.0\n\n\nAssociation for Education Finance and Policy (AEFP)\nEducation finance, policy analysis, quantitative methods\nMarch 2025\nOct–Nov 2024\nVaries annually\nRegular: $150; Student: $50\nEducation Finance and Policy\n2.1\n\n\nAssociation for the Advancement of Artificial Intelligence (AAAI)\nArtificial intelligence, machine learning, AI in education\nFeb 25 – Mar 4, 2025\nAug 2024\nPhiladelphia, PA\nRegular: $125; Student: $50\nAI Magazine\n1.7\n\n\nInternational Educational Data Mining Society (IEDMS)\nEducational data mining, learning analytics, AI applications\nJuly 2025\nJan–Feb 2025\nVaries annually\nRegular: $100; Student: $50\nJournal of Educational Data Mining\n1.5\n\n\nSociety for the Advancement of Socio-Economics (SASE)\nSocio-economic systems, interdisciplinary policy research\nJune 2025\nJan–Feb 2025\nVaries annually\nRegular: $150; Student: $50\nSocio-Economic Review\n3.2\n\n\nSociety for Research on Educational Effectiveness (SREE)\nEducational effectiveness, causal inference, policy evaluation\nMarch 2025\nSept–Oct 2024\nVaries annually\nRegular: $200; Student: $75\nJournal of Research on Educational Effectiveness\n2.9\n\n\nInternational Mind, Brain, and Education Society (IMBES)\nCognitive neuroscience, education, interdisciplinary research\n2026 (Biennial)\nTBD\nVaries\nRegular: $100; Student: $50\nMind, Brain, and Education\n2.5",
+    "crumbs": [
+      "Home",
+      "Academic Organizations"
+    ]
+  },
+  {
+    "objectID": "scales.html",
+    "href": "scales.html",
+    "title": "SCALES Hidden Pages",
+    "section": "",
+    "text": "Potential Projects"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "SCALES Projects",
+    "section": "",
+    "text": "This page contains current and ongoing projects in the SCALES Lab. These provide opportunities for potential collaborators to see what we are doing."
+  },
+  {
+    "objectID": "projects.html#generative-causal-inference",
+    "href": "projects.html#generative-causal-inference",
+    "title": "SCALES Projects",
+    "section": "Generative Causal Inference",
+    "text": "Generative Causal Inference\n\nGenerative Causal Inference: Unifying Generative Social Science and Strong Inference\nGenerative Causal Inference (GCI) is a cutting-edge research framework developed in the SCALES Lab that unites agent-based modeling with formal causal inference to better understand the complex mechanisms behind educational and health outcomes. By simulating how individual behaviors and social interactions give rise to large-scale patterns—like achievement gaps, student dropout, or teacher turnover—GCI allows us to explore not only what causes these outcomes, but how and why. Drawing on the rigor of causal graphs and structural models alongside the explanatory power of computational simulations, GCI provides a powerful tool for testing theories, evaluating policies, and generating new insights that would be difficult to uncover through traditional methods alone. Graduate students working on GCI projects will gain hands-on experience with simulation, statistical modeling, and causal reasoning—preparing them to tackle some of the most pressing and complex problems in education and social science research.\n\n\nGenerative Causal Inference as a Tool for Explainable AI and Scientific Advancement\nThis project explores Generative Causal Inference (GCI), an innovative framework combining computational simulations and causal reasoning to create transparent, trustworthy, and scientifically rigorous AI systems. Rather than relying solely on opaque machine learning algorithms, GCI leverages agent-based modeling and reinforcement learning to simulate and uncover the causal processes behind complex social phenomena, such as educational achievement gaps and health outcomes. By integrating causal inference methods (such as DAGs and structural causal models) with pattern-oriented modeling and strong inference, GCI not only provides robust explanations for AI predictions but also enhances scientific theory-building and hypothesis generation. Graduate students in the SCALES Lab will have the unique opportunity to develop skills in cutting-edge computational modeling, causal analysis, and interdisciplinary research, positioning themselves to significantly influence both the development of explainable AI systems and theoretical advancements in education and health sciences.\n\n\nEcological Modeling for Education Research: A New Framework for Systems Thinking and Causal Inference\nEcological Modeling in Education Research reframes how we study and improve education systems by treating them as complex, adaptive systems influenced by dynamic interactions across students, teachers, families, institutions, and policies. This project blends systems thinking, cognitive science, and artificial intelligence—including agent-based modeling, reinforcement learning- with, and causal inference via Generative Causal Inference to develop rich, theory-driven simulations of real-world educational challenges. Students working on this project will help build computational models that simulate educational processes such as achievement gaps, policy interventions, and learning dynamics over time. This work aims not only to explain how educational outcomes emerge, but also to design and test interventions in silico, offering a new pathway for rigorous, actionable research. Graduate students with interests in computational modeling, educational disparities, cognitive science, or data-driven policy design are especially encouraged to join."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Director",
+    "section": "",
+    "text": "Dr. Murrah is a researcher and professor in the field of education, with a focus on modeling the complex systems that shape learning and academic outcomes. His work integrates tools from cognitive science, ecology, machine learning, and causal inference to better understand how structural factors and resource access interact over time.\nRather than advancing normative frameworks or ideological agendas, his research is grounded in the belief that scientific progress in education comes from building strong, testable theories that reflect the dynamic, real-world contexts in which learning occurs. He is particularly interested in using ecological and agent-based models to simulate educational environments and to explore how interventions or policy shifts might alter system-level behavior.\nDr. Murrah works closely with graduate students and collaborators on projects that span data science, policy modeling, and applied theory development, all with the goal of broadening access to resources and opportunities through empirically grounded insights.",
+    "crumbs": [
+      "Home",
+      "About the Director"
     ]
   }
 ]
