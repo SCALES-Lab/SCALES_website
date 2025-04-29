@@ -169,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#potential-scales-projects" id="toc-potential-scales-projects" class="nav-link active" data-scroll-target="#potential-scales-projects">Potential SCALES Projects</a>
   <ul class="collapse">
-  <li><a href="#generative-casual-inference-potential-empirical-examples" id="toc-generative-casual-inference-potential-empirical-examples" class="nav-link" data-scroll-target="#generative-casual-inference-potential-empirical-examples">Generative Casual Inference: Potential Empirical Examples</a></li>
+  <li><a href="#generative-casual-inference-potential-empirical-projects" id="toc-generative-casual-inference-potential-empirical-projects" class="nav-link" data-scroll-target="#generative-casual-inference-potential-empirical-projects">Generative Casual Inference: Potential Empirical Projects</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -198,16 +198,117 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="potential-scales-projects" class="level2">
 <h2 class="anchored" data-anchor-id="potential-scales-projects">Potential SCALES Projects</h2>
-<section id="generative-casual-inference-potential-empirical-examples" class="level3">
-<h3 class="anchored" data-anchor-id="generative-casual-inference-potential-empirical-examples">Generative Casual Inference: Potential Empirical Examples</h3>
+<section id="generative-casual-inference-potential-empirical-projects" class="level3">
+<h3 class="anchored" data-anchor-id="generative-casual-inference-potential-empirical-projects">Generative Casual Inference: Potential Empirical Projects</h3>
+<section id="generative-causal-inference-of-pandemic-effects-a-simulation-study-of-school-reopening-strategies" class="level4">
+<h4 class="anchored" data-anchor-id="generative-causal-inference-of-pandemic-effects-a-simulation-study-of-school-reopening-strategies">Generative Causal Inference of Pandemic Effects: A Simulation Study of School Reopening Strategies</h4>
+<section id="research-question-how-did-school-reopening-policies-during-a-pandemic-affect-the-spatiotemporal-dynamics-of-disease-spread-and-student-learning-outcomes" class="level5">
+<h5 class="anchored" data-anchor-id="research-question-how-did-school-reopening-policies-during-a-pandemic-affect-the-spatiotemporal-dynamics-of-disease-spread-and-student-learning-outcomes"><strong>Research Question</strong>: How did school reopening policies during a pandemic affect the spatiotemporal dynamics of disease spread and student learning outcomes?</h5>
+</section>
+<section id="context-this-question-is-highly-relevant-socially-important-and-complex-with-numerous-interacting-factors-and-competing-hypotheses." class="level5">
+<h5 class="anchored" data-anchor-id="context-this-question-is-highly-relevant-socially-important-and-complex-with-numerous-interacting-factors-and-competing-hypotheses."><strong>Context</strong>: This question is highly relevant, socially important, and complex, with numerous interacting factors and competing hypotheses.</h5>
+</section>
+<section id="why-this-is-a-good-fit-for-gci" class="level5">
+<h5 class="anchored" data-anchor-id="why-this-is-a-good-fit-for-gci">Why this is a good fit for GCI:</h5>
+<ul>
+<li><p><strong>Multiple Competing Hypotheses</strong>:</p>
+<ul>
+<li>H1: School closures are the primary driver of reduced learning gains.<br>
+</li>
+<li>H2: Community transmission rates are the dominant factor, with school policies having a minor impact.<br>
+</li>
+<li>H3: Certain reopening policies (e.g., hybrid models) have heterogeneous effects depending on student demographics and access to home resources.</li>
+</ul></li>
+<li><p><strong>Strong Theoretical Foundation</strong>:<br>
+Epidemiological models provide a basis for simulating disease spread.<br>
+Educational theories offer insights into how different learning modalities affect student outcomes.<br>
+Sociological perspectives can inform models of social mixing and inequality.</p></li>
+<li><p><strong>Spatial Aspect</strong>: Disease spread is inherently spatial, influenced by contact patterns within schools and communities. Reopening policies also vary spatially.</p></li>
+<li><p><strong>Multiple Patterns and Datasets</strong>:</p>
+<ul>
+<li>Disease spread patterns (incidence rates, hotspots) from public health data.<br>
+</li>
+<li>Student learning outcomes (test scores, attendance, dropout rates) from educational datasets.<br>
+</li>
+<li>Data on social contact patterns and demographics.</li>
+</ul></li>
+<li><p><strong>Potential GCI Approach</strong>:</p>
 <ol type="1">
-<li><p>Research Question: How do different social media recommendation algorithms affect the spread of misinformation and polarization within online communities?</p>
-<p>Context: This is a highly relevant and complex issue with societal implications. Competing Hypotheses: H1: Algorithms prioritizing engagement (clicks, shares) exacerbate misinformation spread. H2: Algorithms prioritizing homophily (connecting similar users) increase polarization. H3: Algorithmic transparency has a mitigating effect on both. Theoretical Foundation: Social network theory for modeling information diffusion. Communication theory for modeling persuasion and belief formation. Psychology of online behavior for modeling user engagement. Spatial Aspect: Network structure and user interactions create a virtual “space” where information spreads. Multiple Patterns and Datasets: Misinformation spread patterns from social media data. Polarization measures (attitude divergence) from surveys or user behavior data. Network structure data (who follows whom) from platform APIs.</p></li>
-<li><p>Research Question: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?</p>
-<p>Context: School choice is a complex and highly debated policy issue with significant equity implications. Competing Hypotheses: H1: Choice increases sorting by income and race, exacerbating inequity. H2: Choice leads to school specialization and improved outcomes for all. H3: The effects of choice depend heavily on the regulatory context and information available to parents. Theoretical Foundation: Economic theories of choice and competition. Sociological theories of segregation and inequality. Educational theories of school effectiveness and peer effects. Spatial Aspect: School locations and student residential patterns create a spatial dimension to choice. Multiple Patterns and Datasets: Student enrollment data by school and demographics. School performance data and resource allocation. Residential segregation data. Data on student transportation patterns.</p></li>
+<li>Build multiple ABMs:
+<ul>
+<li>One model focuses on in-school transmission, varying reopening policies.</li>
+<li>Another model emphasizes community transmission and its spillover effects on schools.<br>
+</li>
+<li>A third model incorporates heterogeneous student learning, resources, and policy effects.<br>
+</li>
+</ul></li>
+<li>Calibrate the ABMs:
+<ul>
+<li>Use epidemiological data to calibrate disease transmission parameters.</li>
+<li>Use educational data to calibrate student learning rates under different modalities.<br>
+</li>
+<li>Incorporate data on household demographics and community structure.<br>
+</li>
+</ul></li>
+<li>Generate synthetic data: Run simulations under various policy scenarios.<br>
+</li>
+<li>Compare synthetic data with real-world patterns:
+<ul>
+<li>Match simulated disease spread to observed incidence rates.<br>
+</li>
+<li>Compare simulated learning outcomes to changes in test scores or attendance.<br>
+</li>
+<li>Examine spatial correlations of disease and learning disparities.<br>
+</li>
+</ul></li>
+<li>Refine models and test further: Iterate the process to identify the most plausible explanations.</li>
+</ol></li>
+</ul>
+<p>This potential project allows for a rigorous comparison of how different mechanisms and assumptions play out, while also providing policy-relevant insights.</p>
+</section>
+</section>
+<section id="school-choice-and-access-to-resources-a-generative-causal-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="school-choice-and-access-to-resources-a-generative-causal-analysis">School Choice and Access to Resources: A Generative Causal Analysis</h4>
+<section id="research-question-what-are-the-long-term-effects-of-different-school-choice-policies-on-student-sorting-school-diversity-and-educational-equity" class="level5">
+<h5 class="anchored" data-anchor-id="research-question-what-are-the-long-term-effects-of-different-school-choice-policies-on-student-sorting-school-diversity-and-educational-equity"><strong>Research Question</strong>: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?</h5>
+<ol type="1">
+<li><strong>Context</strong>: School choice is a complex and highly debated policy issue with significant equity implications.
+<ul>
+<li>Competing Hypotheses:
+<ul>
+<li>H1: Choice increases sorting by income and race, exacerbating inequity.<br>
+</li>
+<li>H2: Choice leads to school specialization and improved outcomes for all.<br>
+</li>
+<li>H3: The effects of choice depend heavily on the regulatory context and information available to parents.<br>
+</li>
+</ul></li>
+<li><strong>Theoretical Foundation</strong>:
+<ul>
+<li>Economic theories of choice and competition.<br>
+</li>
+<li>Sociological theories of segregation and inequality.<br>
+</li>
+<li>Educational theories of school effectiveness and peer effects.<br>
+</li>
+</ul></li>
+<li><strong>Spatial Aspect</strong>: School locations and student residential patterns create a spatial dimension to choice.<br>
+</li>
+<li><strong>Multiple Patterns and Datasets</strong>:
+<ul>
+<li>Student enrollment data by school and demographics.<br>
+</li>
+<li>School performance data and resource allocation.<br>
+</li>
+<li>esidential segregation data.</li>
+<li>Data on student transportation patterns.</li>
+</ul></li>
+</ul></li>
 </ol>
 
 
+</section>
+</section>
 </section>
 </section>
 

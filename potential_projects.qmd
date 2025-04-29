@@ -5,39 +5,67 @@ format: html
 
 ## Potential SCALES Projects
 
-### Generative Casual Inference: Potential Empirical Examples
+### Generative Casual Inference: Potential Empirical Projects
 
-1. Research Question: How do different social media recommendation algorithms affect the spread of misinformation and polarization within online communities?
+#### Generative Causal Inference of Pandemic Effects: A Simulation Study of School Reopening Strategies
 
-    Context: This is a highly relevant and complex issue with societal implications.
-    Competing Hypotheses:
-        H1: Algorithms prioritizing engagement (clicks, shares) exacerbate misinformation spread.
-        H2: Algorithms prioritizing homophily (connecting similar users) increase polarization.
-        H3: Algorithmic transparency has a mitigating effect on both.
-    Theoretical Foundation:
-        Social network theory for modeling information diffusion.
-        Communication theory for modeling persuasion and belief formation.
-        Psychology of online behavior for modeling user engagement.
-    Spatial Aspect: Network structure and user interactions create a virtual "space" where information spreads.
-    Multiple Patterns and Datasets:
-        Misinformation spread patterns from social media data.
-        Polarization measures (attitude divergence) from surveys or user behavior data.
-        Network structure data (who follows whom) from platform APIs.
+##### **Research Question**: How did school reopening policies during a pandemic affect the spatiotemporal dynamics of disease spread and student learning outcomes?
 
-2. Research Question: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?
+##### **Context**: This question is highly relevant, socially important, and complex, with numerous interacting factors and competing hypotheses.
 
-    Context: School choice is a complex and highly debated policy issue with significant equity implications.
-    Competing Hypotheses:
-        H1: Choice increases sorting by income and race, exacerbating inequity.
-        H2: Choice leads to school specialization and improved outcomes for all.
-        H3: The effects of choice depend heavily on the regulatory context and information available to parents.
-    Theoretical Foundation:
-        Economic theories of choice and competition.
-        Sociological theories of segregation and inequality.
-        Educational theories of school effectiveness and peer effects.
-    Spatial Aspect: School locations and student residential patterns create a spatial dimension to choice.
-    Multiple Patterns and Datasets:
-        Student enrollment data by school and demographics.
-        School performance data and resource allocation.
-        Residential segregation data.
-        Data on student transportation patterns.
+##### Why this is a good fit for GCI:
+
+* **Multiple Competing Hypotheses**:  
+    - H1: School closures are the primary driver of reduced learning gains.  
+    - H2: Community transmission rates are the dominant factor, with school policies having a minor impact.  
+    - H3: Certain reopening policies (e.g., hybrid models) have heterogeneous effects depending on student demographics and access to home resources.  
+
+* **Strong Theoretical Foundation**:  
+    Epidemiological models provide a basis for simulating disease spread.  
+    Educational theories offer insights into how different learning modalities affect student outcomes.  
+    Sociological perspectives can inform models of social mixing and inequality.  
+    
+* **Spatial Aspect**: Disease spread is inherently spatial, influenced by contact patterns within schools and communities. Reopening policies also vary spatially.  
+
+* **Multiple Patterns and Datasets**:  
+    - Disease spread patterns (incidence rates, hotspots) from public health data.  
+    - Student learning outcomes (test scores, attendance, dropout rates) from educational datasets.  
+    - Data on social contact patterns and demographics.  
+
+* **Potential GCI Approach**:
+    1. Build multiple ABMs:
+        * One model focuses on in-school transmission, varying reopening policies.
+        * Another model emphasizes community transmission and its spillover effects on schools.  
+        * A third model incorporates heterogeneous student learning, resources, and policy effects.  
+    2. Calibrate the ABMs:  
+        * Use epidemiological data to calibrate disease transmission parameters.
+        * Use educational data to calibrate student learning rates under different modalities.  
+        * Incorporate data on household demographics and community structure.  
+    3. Generate synthetic data: Run simulations under various policy scenarios.  
+    4.  Compare synthetic data with real-world patterns:  
+        * Match simulated disease spread to observed incidence rates.  
+        * Compare simulated learning outcomes to changes in test scores or attendance.  
+        * Examine spatial correlations of disease and learning disparities.  
+    5. Refine models and test further: Iterate the process to identify the most plausible explanations.  
+
+This potential project allows for a rigorous comparison of how different mechanisms and assumptions play out, while also providing policy-relevant insights.   
+
+#### School Choice and Access to Resources: A Generative Causal Analysis
+
+##### **Research Question**: What are the long-term effects of different school choice policies on student sorting, school diversity, and educational equity?  
+
+1. **Context**: School choice is a complex and highly debated policy issue with significant equity implications.  
+    * Competing Hypotheses:  
+        - H1: Choice increases sorting by income and race, exacerbating inequity.  
+        - H2: Choice leads to school specialization and improved outcomes for all.  
+        - H3: The effects of choice depend heavily on the regulatory context and information available to parents.   
+    * **Theoretical Foundation**:  
+        - Economic theories of choice and competition.  
+        - Sociological theories of segregation and inequality.  
+        -  Educational theories of school effectiveness and peer effects.  
+    * **Spatial Aspect**: School locations and student residential patterns create a spatial dimension to choice.  
+    * **Multiple Patterns and Datasets**:  
+        - Student enrollment data by school and demographics.  
+        - School performance data and resource allocation.  
+        - esidential segregation data.
+        - Data on student transportation patterns.  
